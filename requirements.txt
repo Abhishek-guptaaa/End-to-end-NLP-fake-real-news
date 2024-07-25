@@ -1,0 +1,12 @@
+seaborn
+matplotlib
+mongo
+Flask==2.1.1
+tensorflow==2.8.0
+nltk==3.7
+pandas==1.4.2
+scikit-learn==1.0.2
+numpy==1.22.3
+joblib==1.1.0
+python-dotenv
+-e.
